@@ -1,0 +1,14 @@
+-- a list of fonts that you want to use
+-- a list of colors you want to use
+
+-- a list of every page you want on your website
+    - portfolio
+    - contact
+    - CV
+etc etc
+
+-- some text that will go on the website
+
+-- some pictures that you will use (small is good)
+
+
